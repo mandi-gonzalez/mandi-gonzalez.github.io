@@ -14,8 +14,8 @@ body{
  
 
 .nav-link{
-	font-size:.6em;
-	letter-spacing: 3px;
+	font-size:.8em;
+	/*letter-spacing: 3px;*/
 	color:black;
 }
 
