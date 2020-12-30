@@ -4,13 +4,15 @@ html{
  
 body{
 	background-color:fff;
-	font-family: 'Assistant', sans-serif;
+	font-family: 'Assistant';
 	font-size:20px;
 	font-weight:400;
 	margin:4%;
 	margin-top:3%;
 	color:black; /* #444444*/
 }
+
+p{font-size:1.2em}
  
 
 .nav-link{
@@ -56,10 +58,11 @@ h1{
 	text-align:left;
 	color: #505050;
 }
- 
+
 h3 {
-	font-weight:600;
-	font-size:1em;
+	font-weight:700;
+	font-size:1.4em;
+	color: #505050;
 }
 	
 .btn {
@@ -95,7 +98,8 @@ h3 {
 }
 
 .card{
-	border:white;
+	border-color:#ddd;
+ 
 }
 
 .card-text{
