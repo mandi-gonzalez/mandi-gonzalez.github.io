@@ -4,9 +4,9 @@ html{
  
 body{
 	background-color:fff;
-	font-family: 'Muli', sans-serif;
+	font-family: 'Assistant', sans-serif;
 	font-size:20px;
-	font-weight:300;
+	font-weight:400;
 	margin:4%;
 	margin-top:3%;
 	color:black; /* #444444*/
@@ -35,8 +35,8 @@ body{
 .brand {
 	letter-spacing:0px;
 	font-size:24px;
-	font-weight:400;
-	font-family:'Muli';
+	font-weight:700;
+	font-family:'Assistant';
 	color: #505050;
 }
 
@@ -50,10 +50,11 @@ body{
 }
 
 h1{
-	font-family:'Muli';
+	font-family:'Assistant';
 	font-weight:300;  
 	font-size:2em;
 	text-align:left;
+	color: #505050;
 }
  
 h3 {
