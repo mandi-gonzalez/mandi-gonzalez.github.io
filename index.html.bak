@@ -72,22 +72,22 @@
 </div>
 
 <div class="col-sm-4 d-flex justify-content-center">
-<div class="card" style="width: 18rem;"><img alt="woman with glasses" class="card-img-top" src="inform/inform.png" />
+<div class="card" style="width: 18rem;"><img alt="product_page" class="card-img-top" src="inform/inform.png" />
 <div class="card-body">
-<h5 class="card-title">INform</h5>
+<h5 class="card-title">Product Information Pages</h5>
 
-<p class="card-text">Assisting students to see more about campus activities from a distance.</p>
-<a class="btn btn-primary" href="inform/index.html">Read Case Study </a></div>
+<p class="card-text"> Evaluating Home Depot's product information pages according to customer needs.</p>
+<a class="btn btn-primary" href="pip/index.html">Read Case Study </a></div>
 </div>
 </div>
 
 <div class="col-sm-4 d-flex justify-content-center">
-<div class="card" style="width: 18rem;"><img alt="woman with glasses" class="card-img-top" src="inform/inform.png" />
+<div class="card" style="width: 18rem;"><img alt="pro_desk" class="card-img-top" src="inform/inform.png" />
 <div class="card-body">
-<h5 class="card-title">INform</h5>
+<h5 class="card-title">Pro Quoting</h5>
 
-<p class="card-text">Assisting students to see more about campus activities from a distance.</p>
-<a class="btn btn-primary" href="inform/index.html">Read Case Study </a></div>
+<p class="card-text">Discovering unmet needs around Home Depot's quoting experience for Pros. </p>
+<a class="btn btn-primary" href="pro_quotes/index.html">Read Case Study </a></div>
 </div>
 </div>
 
