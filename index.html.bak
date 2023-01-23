@@ -80,12 +80,23 @@
 <a class="btn btn-primary" href="inform/index.html">Read Case Study </a></div>
 </div>
 </div>
+
+<div class="col-sm-4 d-flex justify-content-center">
+<div class="card" style="width: 18rem;"><img alt="woman with glasses" class="card-img-top" src="inform/inform.png" />
+<div class="card-body">
+<h5 class="card-title">INform</h5>
+
+<p class="card-text">Assisting students to see more about campus activities from a distance.</p>
+<a class="btn btn-primary" href="inform/index.html">Read Case Study </a></div>
+</div>
+</div>
+
 </div>
 <br />
 <!-- Footer -->
 <footer>
 <hr style="padding-top:5%" />
-<p>&copy; 2019 Designed &amp; Coded by Mandi Gonzalez</p>
+<p>&copy; 2019-2023 Designed &amp; Coded by Mandi Gonzalez</p>
 
 <p><a href="https://www.linkedin.com/in/armandagonzalez/">LinkedIn </a> | <a href="mailto:gonzalez.armanda@gmail.com"> Email </a> | <a href="https://www.behance.net/mandigonzalez"> Behance </a> | <a href="https://open.spotify.com/playlist/0fMbTeyV998tRqHBrLgjal"> Spotify </a></p>
 </footer>
