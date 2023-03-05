@@ -1,0 +1,270 @@
+<!DOCTYPE HTML>
+<!--
+	Alpha by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title> INform </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<h1><a href="index.html">Mandi</a> Gonzalez</h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Work</a></li>
+							<li><a href="about.html">About</a></li>
+							<li><a href="resume.pdf" target="_blank">Resume</a></li>	
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Main -->
+				<section id="main" class="container">
+					<header>
+						<h2> INform VR Prototype</h2>
+						<p>A pervasive interaction design project that seeks to improve the consumption of information in a more passive manner by means of an augmented reality experience.</p>
+					</header>
+					
+					<div class="box">
+					<span class="image featured"><img src="images/college-studies/inform.png" alt="" /></span>
+						
+							<div class="row">
+								<div class="col-8 col-12-mobilep">
+ 									<h3>Project Overview</h3>
+
+										<p> 
+										The Diag is a large open space in the middle of the University of Michigan’s central campus. 
+										One of the busiest sites on the university campus hosts a variety of events ranging from outdoor concerts 
+										to fundraisers to public demonstrations. 
+										</p>
+										<p>
+										In this project, my team created a VR prototype solution that would help alleviate the information
+										overload and other challenges that students experience when walking through the Michigan Diag space. 
+										This project was part of a course at Michigan called SI 612: Pervasive Interaction Design, 
+										where I joined 3 other students (Nan Tang, Fangwen Zhao, and Mayank Khanna) in this group project.
+										My role involved conducting the user enactments, did interviews, and helped determine the systems technology.
+										</p>
+										In summation, our solution tries to address transfer of such information in a more passive manner by means 
+										of an augmented reality experience. 
+								It aims at providing users contextual information about events happening in a 
+								public space such as the diag in a manner that gives them the control on when they want to see that information.
+								
+										 
+										 
+								</div>
+								<div class="col-4 col-12-mobilep">
+
+											
+											<h5>ROLE</h5>
+											<p> UX Researcher + UX Designer </p>
+											
+											<h5>DURATION</h5>
+											<p> Sept 2015 - Dec 2015 </p>
+											
+											<h5>METHODOLOGY + TOOLS </h5>
+											<p> User Enactments, Prototyping, Cultural Probest </p>
+											
+											
+								</div>
+							</div>	
+
+								 <hr>
+							 
+					 
+							<h3> Context </h3>
+							<p> The Diag is a large open space in the middle of the University of Michigan’s central campus. 
+										One of the busiest sites on the university campus hosts a variety of events ranging from outdoor concerts 
+										to fundraisers to public demonstrations. 
+										Such events are usually hosted by university student groups or staff and 
+										usually involve volunteers that move around the diag passing flyers and 
+										talking to the people walking through the diag or spending time there.</p>
+							<span class="image fit"><img src="images/college-studies/diag.jfif" alt="" />
+							<figcaption> The Diag during the day. </figcaption>
+							</span>
+							
+							<div class="row">
+							<div class="col-6 col-12-mobilep">
+							<h3> Project Definition </h3>
+								<p>
+								Our first milestone was focused on defining and narrowing our project scope. 
+								We all decided we wanted to focus on public spaces and using entertaining interactions in order to be engaged with a space. 
+								We did some preliminary observations at certain public spots where people normally have fun at. 
+								We learned what motivates people to be at these places and what makes them fun. 
+								For example, I did some observations at a party I went to and learned that people were having fun when other people are there. 
+								We took our observations and gleaned insights from them, using the insights to brainstorm early ideas for our project.
+								</p>
+							</div>
+							<div class="col-6 col-12-mobilep">
+								<span class="image fit"><img src="images/college-studies/sketch.jpg" alt="" />
+								<figcaption> My observation sketches from a party I attended. </figcaption>
+								</span>
+
+							</div>
+							</div>	
+							<h3>Formative Study (Interviews) </h3>
+							<p>Considering the diag is one of the busiest open public space in the campus, 
+							we chose it to be the focus of our study and students passing through the diag 
+							or taking rest in the diag as our target users. 
+							We interviewed these students to gain feedback on their experience in the diag, 
+							their reasons to be present there or pass through it and the amount of time they spent in the diag.
+							</p>
+							<p>
+							In order to better understand our target users and their interactions with the public space, 
+							“the diag”, we conducted structured interviews as part of our methodology. 
+							We included cultural probes as part of these interviews to better understand our user’s thoughts 
+							and feelings about specific things that they would find or experience within the diag. 
+							We conducted 13 interviews on campus over a period of a week, with one person taking notes and the other person conducting the interview.
+							</p>
+							
+							<h3> The Problem </h3>
+
+							<p> After we conducted the research, 
+							the data illustrated that while people are interested in knowing about these events and their agenda, 
+							they prefer receiving this information at their own will and when they are interested in receiving such information. 
+							The fact that such information is passed to people in the diag through in-person interaction by strangers 
+							and at times people would not be interested in, is seen as a disturbance and interruption by people in the diag.
+							</p>
+						  
+							 
+						<br>	 
+					
+														
+						<h3> Concept Creation </h3>
+								<p>
+								Based on our findings from interviews, high-level design concepts were generated in order to address the different problems and constraints we came across. 
+								Our design concepts focused on the idea of having objects or technology embedded in the environment instead of providing a technology to the user. 
+								While our interviewees expressed a need for limited interaction with other people/strangers in the diag, 
+								we also focused on that as an opportunity for designing concepts that would allow people to passively interact with each other.
+								</p>
+								<span class="image fit"><img src="images/college-studies/bench-warmer.png" alt="" />
+								<figcaption> High-level design concepts </figcaption>
+								</span>
+								<p>
+								Out of the entire set of concepts generated using the speed dating matrix (27 concepts), 
+								we decided to focus only on 7 concepts which seemed relevant to our design constraints. 
+								The 7 specific concepts are highlighted in our speed dating matrix here. 
+								We tested these concepts/enactments with 5 users in the diag itself in order to make it as contextual for them as possible.
+								</p>
+						<h3> Experience Prototyping, Part 1 </h3>
+						<p>
+						Considering that we scoped our design problem to focus on ways we could improve the way people consume information in the diag, 
+						we identified three kinds of information which people would be interested to consume in the diag:</p>
+
+							<ul><li>History and past events that have happened in the diag.</li>
+							<li>Current events happening in the diag.</li>
+							<li>Information from different objects in the diag such as how many people cross the diag or how many people used a particular bench in the diag.
+							</li>
+							</ul>
+							<p>Based on our current focus and scope, we built <b>user enactments</b> to showcase the different pieces of information mentioned above. 
+							We utilized a speed dating matrix to conceptualize our systems with varying levels of proactiveness from the environment for the user. 
+							For example, A display that invokes as the user approaches it would be considered high proactivity 
+							while the display invoking on some user interaction with the object would be considered as low proactivity.
+						
+						</p>
+						<div class="row">
+						<div class="col-6 col-12-mobilep">
+						<span class="image fit"><img src="images/college-studies/user1.jpg" alt="" />
+						<figcaption> User enactment in progress </figcaption></span>
+
+						</div>
+						<div class="col-6 col-12-mobilep">
+						<span class="image fit"><img src="images/college-studies/user2.jpg" alt="" />
+						<figcaption> User enactment in progress </figcaption></span>
+
+						</div>
+						</div>
+						
+						
+						<p>
+						Out of the entire set of concepts generated using the speed dating matrix (27 concepts), 
+						we decided to focus only on 7 concepts which seemed relevant to our design constraints. The 7 specific concepts are highlighted in our speed dating matrix here. 
+						We tested these concepts/enactments with 5 users in the diag itself in order to make it as contextual for them as possible.
+						</p>
+						
+						<h3> Affinity Mapping </h3>
+						<span class="image fit"><img src="images/college-studies/inform-affinity.jpg" alt="" />
+						<figcaption> Affinity mapping wall </figcaption></span>
+
+						<p>
+						Based on our user enactments and the user’s experience with them, 
+						we categorized the feedback we received into general themes that were common across those enactments. The main findings are as follows:
+						<ul>
+							<li>Users did not like the lack of control in our second user enactment where users would get an informational display once they were in close proximity to an object in the Diag. Users were appreciative of the ease of getting content, however, too much proactiveness in part of the environment was considered intrusive.</li>
+							<li>Users also wanted to be able to access information at a later time. Because our users are in the Diag for a short time, users felt that it would be very useful for them to access information like the history of the diag and future events in the diag at their own convenience.</li>
+							<li>Users were concerned about the content being the same everyday, therefore they wanted to know how the content will be dynamic and meaningful every time they visit the Diag.</li>
+							<li>Users experienced social awkwardness when interacting with objects through hand gestures and conversation with objects.</li>
+							<li>Users needed transparency in how personal information gets collected. For example, one user was particularly interested in how the Diag would know what were their interests were.</li>
+						</ul>
+						</p>
+						<br>
+						<h3> Experience Prototyping, Part 2 </h3>
+						<p>
+						Overall, based on the feedback we received from the user enactments, we found that the history of the diag concept was considered irrelevant by the users. Due to limited time in conceptualizing and creating our final demos we decided to focus on conceptualizing our ideas on only current events happening in the diag and the future events that would take place in the diag. We then developed a demo of our proposed system with the concepts above to our class 
+						and recevieved valuable feedback that helped us further refine our final system concept.
+						</p>
+						<br>								
+						
+						<h3> Final System Proposal </h3>
+						<p>
+						The system concept we proposed is called “INform”, an amalgamation of the word “inform” and “in”, 
+						as to illustrate the overall point of how our system works to “inform” users about a public space they are “in”. 
+						It is an augmented reality experience that is embedded in the user’s eyeglasses and provides them 
+						with contextual information about a public space such as the Diag in a manner that gives them control on when they want to see that information. 
+						The system uses a combination of GPS, Bluetooth, RFID tags, and eye tracking technology.
+						</p>
+								
+									 
+									<br>
+					
+							
+							</div>
+								
+									<div style="text-align: right;">	
+										<a href="jool.html" class="button icon solid fa-arrow-right"> Next Project </a>
+									</div>	
+							</div>
+								
+									
+						</div>
+						
+					</div>
+				</div>
+
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="https://www.linkedin.com/in/mandigonzalez/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						<li><a href="https://www.behance.net/mandigonzalez" class="icon brands fa-behance"><span class="label">Behance</span></a></li>
+						<li><a href="https://medium.com/@redheadlatina" class="icon brands fa-medium"><span class="label">Medium</span></a></li>
+						<li><a href="https://open.spotify.com/playlist/0fMbTeyV998tRqHBrLgjal" class="icon brands fa-spotify"><span class="label">Spotify</span></a></li>
+						<li><a href="gonzalez.armanda@gmail.com" class="icon fa-solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; 2023. All rights reserved.</li>
+						<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

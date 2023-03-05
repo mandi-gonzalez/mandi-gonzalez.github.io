@@ -1,0 +1,290 @@
+<!DOCTYPE HTML>
+<!--
+	Alpha by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title> Hair Customer Personas </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<h1><a href="index.html">Mandi</a> Gonzalez</h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Work</a></li>
+							<li><a href="about.html">About</a></li>
+							<li><a href="resume.pdf" target="_blank">Resume</a></li>	
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Main -->
+				<section id="main" class="container">
+					<header>
+						<h2> Hair Customer Personas </h2>
+						<p> Crafting customer personas to help the Mayvenn Hair startup understand the needs and motivations behind their hair-shopping customers better.</p>
+					</header>
+					
+					<div class="box">
+					<span class="image featured"><img src="images/personas/personas-header.png" alt="" /></span>
+						
+							<div class="row">
+								<div class="col-8 col-12-mobilep">
+ 									<h3>Project Overview</h3>
+
+										<p> 
+										Mayvenn Hair, Inc. is an online e-commerce site that specializes in selling hair to customers, such as hair bundles, wigs, and more.
+										At the time, the company only had assumptions and anecdotal data about who their customers were, 
+										with no UX customer personas that existed. My research study filled this gap,
+										where I conducted 12 remote interviews with Mayvenn customers to help develop three (3) personas for the business. 
+									
+										</p>
+										<p> The impact of the personas resulted in the personas being constantly asked for by VPs for reference, 
+										also referenced by incoming UX designers in their design work, helped impact decision making around the company 
+										in terms of releasing more color options for hair, 
+										and look at considering releasing shorter looks (for older, career-upwards women). 
+										</p>
+										 
+								</div>
+								<div class="col-4 col-12-mobilep">
+
+											<h5>COMPANY</h5>
+											<p> Mayvenn </p>
+											
+											<h5>ROLE</h5>
+											<p> Sole UX Researcher </p>
+											
+											<h5>DURATION</h5>
+											<p> Sept - Oct 2022 </p>
+											
+											<h5>METHODOLOGY</h5>
+											<p> Interviews </p>
+								</div>
+							</div>	
+
+								 <hr>
+								<br>
+						<div class="row">
+								
+							<div class="col-8 col-12-mobilep">
+							<h3>Context + Problem </h3>
+
+							<p> Mayvenn Hair, Inc. is a e-commerce startup based in California that
+								sells hair online such as wigs, bundles, and more. They
+								also connect customers to stylists in their area to help
+								install hair.
+							</p>
+							<p>
+							Mayvenn had assumptions about who their customers
+							were but had no evidence or documentation such as
+							customer personas to help understand their customer
+							base better and satisfy their needs.
+</p>
+							</div>
+							<div class="col-4 col-12-mobilep">
+								<span class="image fit"><img src="images/personas/mayvenn-logo.png" alt="" /></span>
+							</div>
+						</div>
+						<br>	 
+					
+						<h3>Research Objective</h3>
+								<p>
+								The research objective then became to <b>
+								help the business understand who are Mayvenn’s customers </b> with the 
+								intention of having customer personas as the deliverable of this research.
+								</p>	
+								
+								
+						<div class="row">
+						<div class="col-6 col-12-mobilep">
+						<h3>Study Design</h3>
+								<h4>Methodology </h4>
+								<p>1-hour remote Interviews (n=15) </p>
+								 		
+
+								<h4>Rationale: </h4>
+								<p>
+								Interviews would give us the ability to ask questions
+								about our customers in an unstructured format, giving us leeway into what questions we could ask.
+								</p>
+						
+						</div>
+						<div class="col-6 col-12-mobilep">
+
+						<span class="image fit"><img src="images/personas/stock-personas.jpg" alt="" /></span>
+						
+						</div>
+						</div>
+								
+																	
+ 						<h3> Target Audience </h3>
+					
+											<p>We interviewed 15 Mayvenn customers where we screened for customers those who:
+												<ul>
+													<li> were planning on shopping for hair online in the next 3 months</li>
+													<li> who have shopped at Mayvenn in the last 6 months </li>
+													
+												</ul>
+												I recruited our customers from our internal database via
+												the company's <b>Google Looker</b> cloud database software, used
+												the <b>Typeform</b> platform to create a screen survey, partnered with the
+												internal email marketing team to send a recruitment email, and
+												used <b>Calendly</b> to schedule the interviews. Lots of tools were used, as you can see!
+												
+											</p>
+									 
+ 								<br>
+								
+								<h3> Sample Interview Questions </h3>
+
+										<ul>
+										<li> What kind of hair are you typically shopping for?  </li> 
+										<li> Where are you typically shopping for hair at? </li> 
+										<li> Why do you shop for the hair that you do? </li> 
+										<li> Overall, what’s your experience been like getting hair with Mayvenn?</li> 
+										<li> What is your experience like with your stylist? </li>
+										<li> How do you maintain your hair? </li>
+										</ul>
+							
+							<br>
+							
+							<div class="row">
+								<div class="col-6 col-12-mobilep">
+							<h3> Analysis </h3>
+								<p>
+								To analyze and synthesize the collected data, I used the collaboration whiteboarding tool <b>Miro</b> to transform the data into sticky notes that 
+								I grouped into meaningful themes (affinity mapping exercise).
+								</p>	
+							</div>
+							<div class="col-6 col-12-mobilep"><span class="image fit"><img src="images/personas/affinity.png" alt="" />
+								<figcaption> Snapshot of the sticky notes from the affinity mappping exericse before it officially started.</figcaption>
+								</span>
+							</div>
+							</div>
+								
+								 
+
+								
+								<br>
+								
+
+								<h3> Personas </h3>
+								<p>There were the customers personas I created using Figma, where we essentially found 3 archetypes: </p>
+							
+								<div class="row">
+								<div class="col-6 col-12-mobilep">
+								<span class="image fit"><img src="images/personas/persona1.png" alt="" /></span>
+								</div>
+								<div class="col-6 col-12-mobilep">
+								<p> <b> Switchable Simone </b> tends to switch up her looks often, who enjoys experimenting with different colors
+									and styles, so she can transform her look and feel beautiful doing so.</p>
+								</div>
+								</div>
+								<div class="row">
+								<div class="col-6 col-12-mobilep">
+								<span class="image fit"><img src="images/personas/persona2.png" alt="" /></span>
+								</div>
+								<div class="col-6 col-12-mobilep">
+								<p> <b> Occasional Olivia </b> typically is only getting her hair done for special occasions.
+								She is not buying hair as often as the other personas, but she does need hair that will make her look beautiful for the occasion and she is willing
+								to pay a pretty penny for it.</p>
+								</div>
+								</div>
+								<div class="row">
+								<div class="col-6 col-12-mobilep">
+								<span class="image fit"><img src="images/personas/persona3.png" alt="" /></span>
+								</div>
+								<div class="col-6 col-12-mobilep">
+								<p><b> Everyday Evelyn </b> is a woman who has been getting her hair done for 15+ years and because of her alopecia, she
+									resorts to wearing wigs. Because she is a working woman, she typically needs styles that look like her own hair and that it looks real.</p>
+								</div>
+								</div>
+								
+								
+							
+								<br>
+							
+								 
+								<h3> Impact </h3>
+								<p> The study was asked for by VPs, referenced by incoming UX designers in their design work, helped
+									impact decision making around the company in terms of releasing more color options for hair, and look at
+									considering releasing shorter looks (for older, career-upwards women.
+								</p>
+								<p> The next steps were to create a survey to help generalize the findings, but shifting research priorities
+									caused this second phase to be pushed back in the research backlog. 
+								</p>
+																		
+							
+								<h3> Reflection </h3>
+									<h4> What could have gone better? </h4>
+										<ul>
+											<li> I could have encouraged better participation rates of stakeholders to join in and observe the sessions,
+												including participating in the affinity mapping exercise of looking at the data.
+											</li>
+											<li>The amount of tools (10) to recruit, book, and remind customers was a lot on my plate – it made me realize
+												we needed a better platform to run research end-to-end.
+											</li>
+										</ul>
+									
+									<h4> Positives </h4>
+								 
+									<p>
+									Being able to deliver a much-needed research artifact for the business to use in the long term was a great
+									feeling to have, especially as someone who was the first and only UX researcher at the company. This was great
+									foundational work that would impact the company in many ways for the near future.
+									</p>
+									 
+									<br>
+					
+							
+							</div>
+								
+									<div style="text-align: right;">	
+										<a href="zone-a.html" class="button icon solid fa-arrow-right"> Next Project </a>
+									</div>	
+							</div>
+								
+									
+						</div>
+						
+					</div>
+				</div>
+
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="https://www.linkedin.com/in/mandigonzalez/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						<li><a href="https://www.behance.net/mandigonzalez" class="icon brands fa-behance"><span class="label">Behance</span></a></li>
+						<li><a href="https://medium.com/@redheadlatina" class="icon brands fa-medium"><span class="label">Medium</span></a></li>
+						<li><a href="https://open.spotify.com/playlist/0fMbTeyV998tRqHBrLgjal" class="icon brands fa-spotify"><span class="label">Spotify</span></a></li>
+						<li><a href="gonzalez.armanda@gmail.com" class="icon fa-solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; 2023. All rights reserved.</li>
+						<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

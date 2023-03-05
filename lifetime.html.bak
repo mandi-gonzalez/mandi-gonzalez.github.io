@@ -1,0 +1,239 @@
+<!DOCTYPE HTML>
+<!--
+	Alpha by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>UNC Lifetime Library </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<h1><a href="index.html">Mandi</a> Gonzalez</h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Work</a></li>
+							<li><a href="about.html">About</a></li>
+							<li><a href="resume.pdf" target="_blank">Resume</a></li>	
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Main -->
+				<section id="main" class="container">
+					<header>
+						<h2> UNC Lifetime Library </h2>
+						<p>Conducting a usability evaluation with 3 others students on UNC’s Lifetime Library website application.</p>
+					</header>
+					
+					<div class="box">
+					<span class="image featured"><img src="images/college-studies/lifetime.png" alt="" /></span>
+						
+							<div class="row">
+								<div class="col-8 col-12-mobilep">
+ 									<h3>Project Overview</h3>
+
+										<p> 
+										UNC’s Lifetime Library is a website and desktop application designed to provide students and alums with access to “grid data storage”, 
+										otherwise known as “cloud storage” for their entire lives.
+										</p>
+										<p>I was an undergrad taking a course called “Usability Testing & Evaluation”, working with graduate students, where we were able to choose this system for this usability project. 
+										We created a usability test and had participants use the system. 
+										Our results indicated the system needed much more work to be done and we subsequently provided a set of recommendations that could improve the system.
+										</p>
+										
+										<p> For this project, my role was user research, where I was moderating and contributing to test plans for usability tests. 
+										My team members that I worked with on this project were Michael Head, Mrudula Sudarsanam, and Erin Holmes.
+										</p>
+										 
+								</div>
+								<div class="col-4 col-12-mobilep">
+
+											<h5>ORGANIZATION </h5>
+											<p> University of North Carolina </p>
+											
+											<h5>ROLE</h5>
+											<p> User Researcher </p>
+											
+											<h5>DURATION</h5>
+											<p> Aug 2013 - Dec 2013 </p>
+											
+											<h5>METHODOLOGY + TOOLS </h5>
+											<p> Usability Testing, Heuristic Analysis, Cognitive Walkthrough </p>
+										
+								</div>
+							</div>	
+
+								<hr>
+								<br>
+					 
+							
+							<div class="row">
+								<div class="col-6 col-12-mobilep">
+							<h3> The Process </h3>
+							
+							<ol>
+							<li> First, we decided on the appropriate <b>user profile</b> to understand what kind of use cases we would test participants on. 
+							<li> We also did a <b>cognitive walkthrough</b> of the site in order to come up with appropriate tasks for the usability test.
+							<li> We then established the <b>goal</b> of the usability test, how we were going to <b>collect</b> the data
+							and how we were going to <b>evaluate</b> that data. </li>
+							<li> We then tested 4 participants with 4 tasks at UNC SILS special <b>testing lab</b> in a week's time. </li>
+							<li> The last step was finally putting together a <b>report</b> of findings and recommendations that we delivered to the client.</li>
+							 </ol>
+							 </div>
+							 <div class="col-6 col-12-mobilep">							
+							 <span class="image fit"><img src="images/college-studies/lifetime-library.jpg" alt="" />
+							 <figcaption> Screenshot of the Lifetime Library </figcaption>
+							 </span>
+							 <figcaption> 
+							 </span>
+
+							 </div>
+							 
+							 </div>
+							 
+						<br>
+						<br>	 
+	 
+							<div class="row gtr-50 gtr-uniform">
+								<div class="col-4 col-12-mobilep ">
+									<div class="col-4"><span class="image fit"><img src="images/college-studies/profile.png" alt="" /></span></div>
+
+									<h3 style="text-align:center;"> User Profile </h3>
+
+									<p>
+									The user is a current student who is using this system for the first time. The student has already signed up for an account and is logging in as herself.
+									</p>
+								</div>
+								<div class="col-4 col-12-mobilep">
+									<div class="col-4"><span class="image fit"><img src="images/college-studies/tasks.png" alt="" /></span></div>
+
+									<h3 style="text-align:center;"> Use Cases (Tasks)</h3>
+									<ul>
+									<li> log into their account for the first time </li>
+									<li> upload a file for the first time </li>
+									<li> annotate a file (adding metadata) </li>
+									<li> add share permissions on a file</li>
+									</ul>
+							
+								</div>
+								
+								<div class="col-4 col-12-mobilep">
+								<div class="col-4"><span class="image fit"><img src="images/college-studies/camtasia.jpg" alt="" /></span></div>
+
+								<h3 style="text-align:center;"> Data Collection </h3>
+									<ul>
+									<li>Screen & Audio Capture</li>
+									<li> Scribe’s Notes</li>
+									<li> Pre-test Questionnaire for Participants </li>
+									<li> Post-test Questionnaires</li>
+									</ul>
+								</div>
+							</div>
+			 	 
+<br> <br>
+
+							<h3> Evaluation Metrics </h3>
+								
+								<h4> Task Performance </h4>
+								<p>
+								Task success was analyzed to evaluate task performance. 
+								A post-task questionnaire question asked users how confident they were they completed the previous task. 
+								System errors were counted to determine if users were able to avoid errors.
+								</p>	
+							 
+								
+								<h4> Perceived Use of Time </h4>
+								<p>
+								A post-task questionnaire question asked users if they felt the time spent on the previous task was 
+								less, more, or about what they expected.
+
+
+								</p>
+								
+								<h4> Comparative Ease of Use </h4>
+								<p>
+								Each post-task questionnaire contained a matrix asking users to compare the task to a similar task in systems they were familiar with.
+								</p>
+								
+								<h4> Perceived Ease of Use </h4>
+								<p>
+								Each post-task questionnaire asked users to rate the level of difficulty of the previous task.
+								</p>
+							 
+								
+							<h3> Results </h3>
+								<p>
+								Participants were mostly successful in performing all tasks we asked them to perform, with the exception of Sharing a File. 
+								However, participants were quite confident they completed the Sharing a File task. 
+								We hypothesize this is because of the way sharing works in the Lifetime Library. We asked participants to let another user view a file, 
+								but another user would not be able to view the file because the Lifetime Library does not support sharing just a file. 
+								<b>While the Lifetime Library does not prevent users from performing fundamental tasks (aside from sharing a file), 
+								participants perceived it as not being easy to use.</b>
+								</p>
+								
+							<h3> Reflection </h3>
+								<p>
+								This was my first time doing a usability test, so I learned many things from it, 
+								from understanding the value of planning such tests to understanding 
+								when it was appropriate to interrupt users to learn more about a particular action they took during the completion of a task. 
+								It was a course that I really owe a lot to due it jumpstarting my interest in user experience.
+								</p>
+
+							
+						 
+								
+									 
+									<br>
+					
+							
+							</div>
+								
+									<div style="text-align: right;">	
+										<a href="inform.html" class="button icon solid fa-arrow-right"> Next Project </a>
+									</div>	
+							</div>
+								
+									
+						</div>
+						
+					</div>
+				</div>
+
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="https://www.linkedin.com/in/mandigonzalez/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						<li><a href="https://www.behance.net/mandigonzalez" class="icon brands fa-behance"><span class="label">Behance</span></a></li>
+						<li><a href="https://medium.com/@redheadlatina" class="icon brands fa-medium"><span class="label">Medium</span></a></li>
+						<li><a href="https://open.spotify.com/playlist/0fMbTeyV998tRqHBrLgjal" class="icon brands fa-spotify"><span class="label">Spotify</span></a></li>
+						<li><a href="gonzalez.armanda@gmail.com" class="icon fa-solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; 2023. All rights reserved.</li>
+						<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

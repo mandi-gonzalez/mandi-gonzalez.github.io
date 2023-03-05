@@ -1,105 +1,164 @@
-<!DOCTYPE html>
-<html lang="en">
-<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Mandi Gonzalez - Portfolio</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1"><!-- bootstrap reference code -->
-	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet" /><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script><!-- styling -->
-	<link href="style.css" rel="stylesheet" type="text/css" />
-	<link href="https://fonts.googleapis.com/css?family=Assistant:600,700" rel="stylesheet" />
-	<link href="https://fonts.googleapis.com/css?family=Muli:300,400,700" rel="stylesheet" />
-	<link href="graph.ico" rel="icon" type="image/x-icon" />
-</head>
-<body class="thumbnail_resize"><!---- header ---->
-<div class="container">
-<ul class="nav d-flex">
-	<li class="nav-item mr-auto p-2">
-	<p class="brand"><a href="index.html">Mandi Gonzalez </a></p>
-	</li>
-	<li class="nav-item p-2"><a class="nav-link active" href="index.html" style="font-weight:bold;">WORK </a></li>
-	<li class="nav-item p-2"><a class="nav-link" href="about.html">ABOUT </a></li>
-</ul>
+<!DOCTYPE HTML>
+<!--
+	Alpha by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Mandi Gonzalez Portfolio</title>
+		<link rel="icon" type="image/x-icon" href="favicon.ico">
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		
 
-<div class="row justify-content-center personal-intro">
-<div class="col-sm-9" style="text-align:center;">
-<h1>Hola! I&rsquo;m <span class="emphasis"> Mandi</span>, a NC native and currently an Atlanta-based UX Researcher. </h1>
-</div>
-</div>
-<!---- case studies -->
+	</head>
+	<body class="landing is-preload">
+		<div id="page-wrapper">
 
-<hr style="padding-bottom:8%" />
-<div class="row">
-<div class="col-sm-4 d-flex justify-content-center">
-<div class="card" style="width: 18rem;"><img alt="JOOL Health App Screenshot" class="card-img-top" src="joolhealth/jool.png" />
-<div class="card-body">
-<h5 class="card-title">JOOL Health</h5>
+			<!-- Header -->
+				<header id="header" class="alt">
+					<h1><a href="index.html">Mandi</a> Gonzalez</h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Work</a></li>
+							<li><a href="about.html">About</a></li>
+							<li><a href="resume.pdf" target="_blank">Resume</a></li>						
+						</ul>
+					</nav>
+				</header>
 
-<p class="card-text">Design + Research for a mobile health startup, encouraging people to live life with purpose.</p>
-<a class="btn btn-primary" href="joolhealth/index.html">Read More </a></div>
-</div>
-</div>
+			<!-- Banner -->
+				<section id="banner">
+					<h2>Hi, I'm Mandi</h2>
+					<p>Welcome to my portfolio! I'm a User Experience Researcher currently residing in Atlanta, GA. 
+					<br>Below you'll find some of my latest research projects.</p>
+				</section>
 
-<div class="col-sm-4 d-flex justify-content-center">
-<div class="card" style="width: 18rem;"><img alt=" UNC logo" class="card-img-top" src="lifetime_library/lifetime.png" />
-<div class="card-body">
-<h5 class="card-title">UNC Lifetime Library</h5>
+			<!-- Main -->
+				<section id="main" class="container">
+				
+				
 
-<p class="card-text">Evaluating the experience of the UNC&rsquo;s free cloud storage tool.</p>
-<a class="btn btn-primary" href="lifetime_library/index.html">Read More </a></div>
-</div>
-</div>
+					<div class="row">
+						<div class="col-6 col-12-narrower">
 
-<div class="col-sm-4 d-flex justify-content-center">
-<div class="card" style="width: 18rem;"><img alt="dominos pizza logo" class="card-img-top" src="dominos/dominos.png" />
-<div class="card-body">
-<h5 class="card-title">Dominos Pizza</h5>
+							<section class="box special">
+								<span class="image featured"><img src="images/homepage/product-page-preview.png" alt="" /></span>
+								<h3>Zone A Redesign</h3>
+								<p>Evaluating The Home Depot's product pages above the fold to ensure it continues to meet customer needs.</p>
+								<ul class="actions special">
+									<li><a href="zone-a.html" class="button alt">Read More</a></li>
+								</ul>
+							</section>
 
-<p class="card-text">Using UXR methods &amp; deliverables to improve Dominos&rsquo; HQ intranet.</p>
-<a class="btn btn-primary" href="dominos/index.html">Read More </a></div>
-</div>
-</div>
-</div>
-&nbsp;
+						</div>
+						<div class="col-6 col-12-narrower">
 
-<div class="row">
-<div class="col-sm-4 d-flex justify-content-center">
-<div class="card" style="width: 18rem;"><img alt="affinity mapping diagram" class="card-img-top" src="coop/coop.png" />
-<div class="card-body">
-<h5 class="card-title">People&#39;s Food Coop</h5>
+							<section class="box special">
+								<span class="image featured"><img src="images/homepage/pro-quoting-preview.png" alt="" /></span>
+								<h3>Pro Quoting</h3>
+								<p>Understanding The Home Depot's Pro customer base and their experience with getting quotes for their job orders.</p>
+								<ul class="actions special">
+									<li><a href="pro-quoting.html" class="button alt">Read More</a></li>
+								</ul>
+							</section>
 
-<p class="card-text">Improving a local community food cooperative&#39;s workflows &amp; communication strategy.</p>
-<a class="btn btn-primary" href="coop/index.html">Read More </a></div>
-</div>
-</div>
+						</div>
+						
+						 
+					</div>
+					
+					<div class="row">
+						<div class="col-6 col-12-narrower">
 
-<div class="col-sm-4 d-flex justify-content-center">
-<div class="card" style="width: 18rem;"><img alt="product_page" class="card-img-top" src="pip/hammer.png" />
-<div class="card-body">
-<h5 class="card-title">Product Information Pages</h5>
+							<section class="box special">
+								<span class="image featured"><img src="images/homepage/personas-preview.png" alt="" /></span>
+								<h3>Hair Customer Personas</h3>
+								<p> Crafting customer personas to help the Mayvenn Hair startup understand the needs and motivations behind their hair-shopping customers better. </p>
+								<ul class="actions special">
+									<li><a href="personas.html" class="button alt">Read More</a></li>
+								</ul>
+							</section>
 
-<p class="card-text"> Evaluating Home Depot's product information pages according to customer needs.</p>
-<a class="btn btn-primary" href="pip.pdf">Read More </a></div>
-</div>
-</div>
+						</div>
+						<div class="col-6 col-12-narrower">
 
-<div class="col-sm-4 d-flex justify-content-center">
-<div class="card" style="width: 18rem;"><img alt="pro_desk" class="card-img-top" src="pro_quotes/pro.jpg" />
-<div class="card-body">
-<h5 class="card-title">Pro Quoting</h5>
+							<section class="box special">
+								<span class="image featured"><img src="images/homepage/personalization-preview.png" alt="" /></span>
+								<h3>Personalized Homepage</h3>
+								<p>
+								Evaluating The Home Depot's proposed strategy around personalizing the homepage experiences for customers across the site experience.
+								</p>
+								<ul class="actions special">
+									<li><a href="personalization.html" class="button alt">Read More</a></li>
+								</ul>
+							</section>
 
-<p class="card-text">Discovering unmet needs around Home Depot's quoting experience for Pros. </p>
-<a class="btn btn-primary"  target="_blank" href="pro-quoting.pdf">Read More </a></div>
-</div>
-</div>
+						</div>
+					</div>
+					
+					<section class="box special features">
+						<div class="features-row">
+							<section>
+								<span class="icon solid major fa-chart-area accent2"></span>
+								<h3>Want to see more projects?</h3>
+								<p>These projects range from UX Design to UX Research and were done as part of my coursework at The University of Michigan and UNC-Chapel Hill between 2014-2016.</p>
+							</section>
+							<section>
+								<p><a href="jool.html"> JOOL Health App </a> </p>
+								<p><a href="dominos.html"> Dominos Pizza Intranet </a> </p>
+								<p><a href="coop.html"> The People's Food Coop </a> </p>
+								<p><a href="lifetime.html"> UNC Lifetime Library </a> </p>
+								<p><a href="inform.html"> INform VR Prototype </a> </p>
+							</section>
+						</div>
+					</section>
+					
+					
+				</section>
+				
+				<section id="cta">
 
-</div>
-<br />
-<!-- Footer -->
-<footer>
-<hr style="padding-top:5%" />
-<p>&copy; 2019-2023 Designed &amp; Coded by Mandi Gonzalez</p>
+					<h2>Want to chat? </h2>
+					<p> Don't hesistant to reach out to me via my email address below. </p>
 
-<p><a href="https://www.linkedin.com/in/mandigonzalez/">LinkedIn </a> | <a href="mailto:gonzalez.armanda@gmail.com"> Email </a> | <a href="https://www.behance.net/mandigonzalez"> Behance </a> | <a href="https://open.spotify.com/playlist/0fMbTeyV998tRqHBrLgjal"> Spotify </a></p>
-</footer>
-</div>
-</body>
+					<form>
+						<div class="row gtr-50 gtr-uniform"> 
+							<div class="col-12 col-12-mobilep">
+								<input onclick="location.href='mailto:gonzalez.armanda@gmail.com';" type="submit" value="gonzalez.armanda@gmail.com" class="fit" />		
+							</div>
+						</div>
+					</form>
+
+				</section>
+				
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="https://www.linkedin.com/in/mandigonzalez/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						<li><a href="https://www.behance.net/mandigonzalez" class="icon brands fa-behance"><span class="label">Behance</span></a></li>
+						<li><a href="https://medium.com/@redheadlatina" class="icon brands fa-medium"><span class="label">Medium</span></a></li>
+						<li><a href="https://open.spotify.com/playlist/0fMbTeyV998tRqHBrLgjal" class="icon brands fa-spotify"><span class="label">Spotify</span></a></li>
+						<li><a href="gonzalez.armanda@gmail.com" class="icon fa-solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; 2023. All rights reserved.</li>
+						<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
 </html>
