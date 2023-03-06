@@ -7,7 +7,7 @@
 <html>
 	<head>
 		<title>Mandi Gonzalez Portfolio</title>
-		<link rel="icon" type="image/x-icon" href="favicon.ico">
+		<link rel="icon" type="image/x-icon" href="favicon_io/favicon.ico">
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -141,7 +141,7 @@
 						<li><a href="https://www.behance.net/mandigonzalez" class="icon brands fa-behance"><span class="label">Behance</span></a></li>
 						<li><a href="https://medium.com/@redheadlatina" class="icon brands fa-medium"><span class="label">Medium</span></a></li>
 						<li><a href="https://open.spotify.com/playlist/0fMbTeyV998tRqHBrLgjal" class="icon brands fa-spotify"><span class="label">Spotify</span></a></li>
-						<li><a href="gonzalez.armanda@gmail.com" class="icon fa-solid fa-envelope"><span class="label">Email</span></a></li>
+						<li><a href="email:gonzalez.armanda@gmail.com" class="icon fa-solid fa-envelope"><span class="label">Email</span></a></li>
 					</ul>
 					<ul class="copyright">
 						<li>&copy; 2023. All rights reserved.</li>

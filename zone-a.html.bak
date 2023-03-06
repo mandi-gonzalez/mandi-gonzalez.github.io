@@ -109,7 +109,7 @@
 								<p> Kickoff > Study Plan Review > Execution > Analysis > Findings Readout > Post-mortem
 								</p> -->
 								
-								<span class="image fit"><img src="images/pro-quoting/pro-desk.jpg" alt="" /></span>
+								 
 								<h3>Study Design</h3>
 								<p> An <b>unmoderated closed card sort</b> was conducted where customers first sorted pieces of Zone A content into 2 groups, 
 								called “Important” vs “Trash Bin”. 
@@ -188,7 +188,7 @@
 										</p>
 										</div>
 										<div class="col-6 col-12-mobilep">
-										<span class="image fit"><img src="images/zone-a/pip-analysis.png" alt="" />
+										<span class="image fit"><img src="images/zonea/pip-analysis.png" alt="" />
 										</span>
 										</div>
 
@@ -218,7 +218,7 @@
 										</div>
 										
 										<div class="col-8 col-12-mobilep">
-											<span class="image fit"><img src="images/zone-a/rec1.png" alt="" />
+											<span class="image fit"><img src="images/zonea/rec1.png" alt="" />
 											<figcaption> An older version of the product page showing where content is current placed 
 											compared to how they are ranked in importance from the research.	
 											</figcaption>
@@ -241,7 +241,7 @@
 
 										</div>
 										<div class="col-8 col-12-mobilep">
-											<span class="image fit"><img src="images/zone-a/rec2.png" alt="" />
+											<span class="image fit"><img src="images/zonea/rec2.png" alt="" />
 											<figcaption> An older version of the product page showing where content is current placed 
 											compared to how they are ranked in unimportance to be seen.	
 											</figcaption>
@@ -251,7 +251,7 @@
 								
 								<h3> Impact </h3>
 							
-								<span class="image fit"><img src="images/zone-a/new-pip-2023.png" alt="" />  <figcaption> The latest iteration of Zone A as of February 2023. </figcaption></span>
+								<span class="image fit"><img src="images/zonea/new-pip-2023.png" alt="" />  <figcaption> The latest iteration of Zone A as of February 2023. </figcaption></span>
 
 								<p> After the results were disseminated, the UX Design immediately iterated and created a new
 									version of the product pages (via design sprints) that then received moderated usability testing.
@@ -266,7 +266,7 @@
 										</ul>
 							
 								<h3> Reflection </h3>
-								<span class="image fit"><img src="images/zone-a/videos-banner.jpg" alt="" /></span>
+								<span class="image fit"><img src="images/zonea/videos-banner.jpg" alt="" /></span>
 							
 									<h4> What could have gone better? </h4>
 										<ul>
