@@ -15,7 +15,7 @@
 	<body class="is-preload">
 		<div id="page-wrapper">
 
-			<!-- Header -->
+			<!-- 
 				<header id="header">
 					<h1><a href="index.html">Mandi</a> Gonzalez </h1>
 					<nav id="nav">
@@ -25,19 +25,19 @@
 							<li><a href="resume.pdf" target="_blank">Resume</a></li>
 						</ul>
 					</nav>
-				</header>
+				</header> -->
 
 			<!-- Main -->
 				<section id="main" class="container">
 					<header>
-						<h2>About Me</h2> 
-						<p>I like chicken nuggets, cats, and family. In that order.</p>
+						<h2>Hi, I'm Mandi </h2> 
+						<p>I'm a User Experience Researcher currently residing in Atlanta, GA.</p>
 					</header>
 					<div class="box">
 						 
 				 
 					
-					<h3>   My Start in UX </h3>
+					<h3>   My UX Beginnings </h3>
 					
 					<p>
 										<span class="image right"><img src="images/me2.png" alt="mandi's headshot" /></span> 
