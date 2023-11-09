@@ -125,7 +125,7 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #e89980;
+		color: #85a083;
 		text-decoration: none;
 	}
 
@@ -149,7 +149,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: black;
+		color: #646464;
 		font-weight: 300;
 		line-height: 1em;
 		margin: 0 0 0.5em 0;
@@ -3186,7 +3186,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url("images/overlay.png"), url("../../images/1.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
@@ -3326,8 +3326,8 @@
 /* CTA */
 
 	#cta {
-		background: #e89980;
-		color: #f9e6df;
+		background: #85a083;
+		color: white;
 		padding: 3.5em 0 4em 0;
 		text-align: center;
 	}
@@ -3348,7 +3348,7 @@
 		#cta .button {
 			box-shadow: none;
 			background: #fff;
-			color: #e89980;
+			color: #85a083;
 		}
 
 		#cta input[type="text"],
