@@ -21,8 +21,7 @@
 					<nav id="nav">
 						<ul>
 							<li><a href="index.html">Work</a></li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="resume.pdf" target="_blank">Resume</a></li>	
+							 	
 						</ul>
 					</nav>
 				</header>
@@ -84,7 +83,7 @@
 							but with the hopes of later validating and editing them via in-person interviews with potential customers.
 							</p>
 						  
-							<span class="image fit"><img src="images/college-studies/provisional.png" alt="" /></span>
+							<span class="image fit"><img src="images/college-studies/provisional.png" alt="provisional personas in an excel table" /></span>
 							 
 						<br>	 
 					
@@ -95,7 +94,7 @@
 								I decided to put it on the whiteboard as to have it visible to everyone on team. 
 								It really helped the team understand the user experience of the new user from a broader perspective.
 								</p>	
-								<span class="image fit"><img src="images/college-studies/user_flow.jpg" alt="" /></span>
+								<span class="image fit"><img src="images/college-studies/user_flow.jpg" alt="user flows on a whiteboard" /></span>
 								
 							<h3> Wireframe, Prototype, Test, Repeat! </h3>
 								<p>
@@ -125,7 +124,7 @@
 						</div>
 						<div class="col-4 col-12-mobilep">
 
-						<span class="image fit"><img src="images/college-studies/howsitgoing.gif" alt="" /></span>
+						<span class="image fit"><img src="images/college-studies/howsitgoing.gif" alt="mobile app prototype slider animation" /></span>
 						
 						</div>
 						</div>
@@ -139,7 +138,7 @@
 								that will make sense of that charted data. We went through various iterations until we got it right for users: 
 								Below are some of the major design problems we faced and the solutions I contributed to:
 								</p>
-								<span class="image fit"><img src="images/college-studies/mockups.png" alt="" /></span>
+								<span class="image fit"><img src="images/college-studies/mockups.png" alt="mobile app mockups" /></span>
 								
 								<p>
 								Usability tests on Figure 1 revealed that users didn't notice the question and labels at the top change when selecting another slider. 
@@ -200,7 +199,7 @@
 								Read more about my experience with guerilla usability testing and how do it on my 
 								<a href="https://medium.theuxblog.com/guerrilla-usability-testing-at-a-startup-63c36ec1ec4f#.9zrpliyx8">Medium blog</a>.
 								</p>
-								<span class="image fit"><img src="images/college-studies/mod-guide.jpg" alt="" /></span>
+								<span class="image fit"><img src="images/college-studies/mod-guide.jpg" alt="a printed out moderator guide on a table" /></span>
 								
 							<h3> Reflection </h3>
 								<p>
