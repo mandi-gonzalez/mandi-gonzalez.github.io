@@ -7,10 +7,10 @@
 <html>
 	<head>
 		<title> Dominos Pizza Intranet </title>
-		<link rel="icon" type="image/x-icon" href="favicon_io/favicon.ico">
+		<link rel="icon" type="image/x-icon" href="../favicon_io/favicon.ico">
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="../assets/css/main.css" />
 	</head>
 	<body class="is-preload">
 		<div id="page-wrapper">
@@ -36,7 +36,7 @@
 					</header>
 					
 					<div class="box">
-					<span class="image featured"><img src="images/college-studies/dominos.png" alt="" /></span>
+					<span class="image featured"><img src="../images/college-studies/dominos.png" alt="" /></span>
 						
 							<div class="row">
 								<div class="col-8 col-12-mobilep">
@@ -98,7 +98,7 @@
 								We gathered very useful information that helped us get to know our users and 
 								what they need from dLive to be able to perform their job successfully.
 								</p>	
-								<span class="image fit" style="border: 1px solid #d3d3d3;"><img src="images/college-studies/persona.png" alt="persona graphic" /></span>
+								<span class="image fit" style="border: 1px solid #d3d3d3;"><img src="../images/college-studies/persona.png" alt="persona graphic" /></span>
 								
 							<h3> Surveys </h3>
 								<p>
@@ -109,7 +109,7 @@
 								</p>
 
 						<h3> Comparative Analysis</h3>	
-							<span class="image fit" style="border: 1px solid #d3d3d3;"><img src="images/college-studies/comparative.png" alt="table comparing dominos competitors" /></span>
+							<span class="image fit" style="border: 1px solid #d3d3d3;"><img src="../images/college-studies/comparative.png" alt="table comparing dominos competitors" /></span>
 							
 						<h3> Heuristic Evaluation </h3>
 								<p>
