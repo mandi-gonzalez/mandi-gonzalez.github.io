@@ -33,7 +33,7 @@
 						<h2> Zone-A Redesign </h2>
 						<p> Evaluating The Home Depot's product pages above the fold to ensure it continues to meet customer shopping needs.
 
-						</p>
+</p>
 					</header>
 					<div class="box">
 					<span class="image featured"><img src="images/zonea/product-page-header.png" alt="" /></span>
@@ -67,13 +67,23 @@
 											<h5>METHODOLOGY</h5>
 											<p> Unmoderated Closed Card Sort </p>
 								</div>
-							</div>		
-					</div>						 
-		
+							</div>	
 
+						 
+									<br>
+					
+							
+							</div>
+								
+									 
+							</div>
+								
+									
+						</div>
+						
+					</div>
 				</section>
-		</div>
-		
+
 			<!-- Footer -->
 				<footer id="footer">
 					<ul class="icons">

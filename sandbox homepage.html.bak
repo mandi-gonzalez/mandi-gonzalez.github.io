@@ -55,31 +55,42 @@
 							</section>
 
 						</div>
+						<div class="col-6 col-12-narrower">
+
+							<section class="box special">
+								<span class="image featured"><img src="images/homepage/pro-quoting-preview.png" alt="" /></span>
+								<h3>Pro Quoting</h3>
+								<p>Understanding The Home Depot's Pro customer base and their experience with getting quotes for their job orders.</p>
+								<ul class="actions special">
+									<li><a href="pro-quoting.html" class="button alt">Read Overview</a></li>
+								</ul>
+							</section>
+
+						</div>
+						
 						 
-					<div class="col-6 col-12-narrower">
+					</div>
+					
+					<div class="row">
+						<div class="col-6 col-12-narrower">
 
 							<section class="box special">
 								<span class="image featured"><img src="images/homepage/personas-preview.png" alt="" /></span>
 								<h3>Hair Customer Personas</h3>
-								<p> Crafting customer personas to help the Mayvenn Hair startup understand the needs and motivations behind their hair-shopping customers better. </p> 
+								<!-- <p> Crafting customer personas to help the Mayvenn Hair startup understand the needs and motivations behind their hair-shopping customers better. </p> -->
 								<ul class="actions special">
 									<li><a href="personas.html" class="button alt">Read Overview</a></li>
 								</ul>
 							</section>
 
-						</div>	
-						 
-					</div>
-					
-					<div class="row">
-						
+						</div>
 						<div class="col-6 col-12-narrower">
 
 							<section class="box special">
 								<span class="image featured"><img src="images/homepage/personalization-preview.png" alt="" /></span>
 								<h3>Personalized Homepage</h3>
 								<p>
-							Evaluating The Home Depot's proposed strategy around personalizing the homepage experiences for customers across the site experience.
+							<!--	Evaluating The Home Depot's proposed strategy around personalizing the homepage experiences for customers across the site experience.-->
 								</p> 
 								<ul class="actions special">
 									<li><a href="personalization.html" class="button alt">Read Overview</a></li>

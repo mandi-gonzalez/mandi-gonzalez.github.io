@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title> Zone-A Redesign </title>
+		<title> Hair Customer Personas </title>
 		<link rel="icon" type="image/x-icon" href="favicon_io/favicon.ico">
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -17,7 +17,7 @@
 
 			<!-- Header -->
 				<header id="header">
-					<h1><a href="index.html">Mandi Gonzalez </a> </h1>
+					<h1><a href="index.html">Mandi</a> Gonzalez</h1>
 					<nav id="nav">
 						<ul>
 							<li><a href="index.html">Work</a></li>
@@ -30,50 +30,63 @@
 			<!-- Main -->
 				<section id="main" class="container">
 					<header>
-						<h2> Zone-A Redesign </h2>
-						<p> Evaluating The Home Depot's product pages above the fold to ensure it continues to meet customer shopping needs.
-
-						</p>
+						<h2> Hair Customer Personas </h2>
+						<p> Crafting customer personas to help the Mayvenn Hair startup understand the needs and motivations behind their hair-shopping customers better.</p>
 					</header>
-					<div class="box">
-					<span class="image featured"><img src="images/zonea/product-page-header.png" alt="" /></span>
-						
 					
+					<div class="box">
+					<span class="image featured"><img src="images/personas/personas-header.png" alt="" /></span>
+						
 							<div class="row">
 								<div class="col-8 col-12-mobilep">
  									<h3>Project Overview</h3>
 
-										<p> Home Depot's online customer shopping experience needed their product pages to be re-evaluated to
-											ensure it was continuing to meet customer needs. To help achieve this business goal, I led 
-											a research study end-to-end where I conducted closed card sort with Home Depot customers that
-											helped assess what pieces of content was most to least important for customers to see when shopping online via these product pages.
+										<p> 
+										Mayvenn Hair, Inc. is an online e-commerce site that specializes in selling hair to customers, such as hair bundles, wigs, and more.
+										At the time, the company only had assumptions and anecdotal data about who their customers were, 
+										with no UX customer personas that existed. My research study filled this gap,
+										where I conducted 12 remote interviews with Mayvenn customers to help develop three (3) personas for the business. 
+									
 										</p>
-										<p> Ultimately, the results from this research project helped the UX Design team create a new Zone A experience that results in an increase in conversion
-										and decrease in bounce and exit rates metrics.
+										<p> The impact of the personas resulted in the personas being constantly asked for by VPs for reference, 
+										also referenced by incoming UX designers in their design work, helped impact decision making around the company 
+										in terms of releasing more color options for hair, 
+										and look at considering releasing shorter looks (for older, career-upwards women). 
 										</p>
 										 
 								</div>
 								<div class="col-4 col-12-mobilep">
 
 											<h5>COMPANY</h5>
-											<p> The Home Depot </p>
+											<p> Mayvenn </p>
 											
 											<h5>ROLE</h5>
-											<p> UX Researcher </p>
+											<p> Sole UX Researcher </p>
 											
 											<h5>DURATION</h5>
-											<p> May - Aug 2021</p>
+											<p> Sept - Oct 2022 </p>
 											
 											<h5>METHODOLOGY</h5>
-											<p> Unmoderated Closed Card Sort </p>
+											<p> Interviews </p>
 								</div>
-							</div>		
-					</div>						 
-		
+							</div>	
+							<a href="zone-a.html" class="button icon solid"> Reach Out for More Details </a>
+
+					</div>
+								
+									<!-- <div style="text-align: right;">	
+										<a href="zone-a.html" class="button icon solid fa-arrow-right"> Next Project </a>
+									</div>	-->
+							</div>
+								
+									
+						</div>
+						
+					</div>
+				</div>
 
 				</section>
-		</div>
-		
+
 			<!-- Footer -->
 				<footer id="footer">
 					<ul class="icons">

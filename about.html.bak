@@ -15,7 +15,7 @@
 	<body class="is-preload">
 		<div id="page-wrapper">
 
-			<!-- 
+			 
 				<header id="header">
 					<h1><a href="index.html">Mandi</a> Gonzalez </h1>
 					<nav id="nav">
@@ -25,7 +25,7 @@
 							<li><a href="resume.pdf" target="_blank">Resume</a></li>
 						</ul>
 					</nav>
-				</header> -->
+				</header> 
 
 			<!-- Main -->
 				<section id="main" class="container">
@@ -33,41 +33,33 @@
 						<h2>Hi, I'm Mandi </h2> 
 						<p>I'm a User Experience Researcher currently residing in Atlanta, GA.</p>
 					</header>
+					
 					<div class="box">
 						 
 				 
 					
-					<h3>   My UX Beginnings </h3>
-					
-					<p>
-										<span class="image right"><img src="images/me2.png" alt="mandi's headshot" /></span> 
-
-					My professional journey in UX started at Blizzard Entertainment, 
-					where I worked a hybrid UX designer in their enterprise apps department, doing both research and design work for the product team.
-					It was a dream job come true! After 3 wonderful years there, 
-					my reflection on my Blizzard experience taught me that research was where I wanted my career focus to be instead of design.
-					<p><i>Research is where my passion lies due to my love for listening to people and their stories, 
-					and how research can be so foundational to the creation of products that ultimately improves people's lives.</i>
-					</p></p>
-					
-					<h3>   From Design to Research </h3>
-					<p>
-					Once my time at Blizzard reached an end, I traveled cross-country from California to Atlanta, GA to work as a UX Researcher at The Home Depot, 
-					where I worked on their core e-commerce shopping platform, leading both strategic and tactical studies using mixed methods, 
-					such as usability testing, card sorting, interviewing, survey design and more. 
-					I crafted compelling insights that drove the strategy/design for valuable people-centered experiences. 
-					Then an e-commerce startup named Mayvenn Hair came along and I become their first UX Researcher 
-					to join the team and create a solid foundational practice there. 
-					I've always been lucky enough to work with an incredibly passionate and talented people, 
-					working in cross-functional and multidisciplinary teams of engineers, designers, researchers, project managers, various stakeholders, and more.
-					</p>
-					
-					<h3> Outside My Professional Life </h3>
-					<p>
-					I’m a former band geek who loves all kinds of music, 
-					all kinds of video games (Candy Crush, Solitaire, Overwatch, Skyrim), hiking, sightseeing, and eating lots of great food (and chicken nuggets) from around the world. 
-					I love cats as well, but who doesn't?
-					</p>
+					<h2>Professional Summary</h2>
+								
+								<p>
+								As a seasoned UX researcher with over 7 years of experience, I have honed my skills in 
+								conducting user research, analyzing data, and creating actionable insights for product teams. 
+								Throughout my career, I have worked across a diverse range of industries including e-commerce, B2B, and government, 
+								allowing me to develop a versatile and adaptive approach to problem-solving. 
+								<br></br> 
+								My ultimate goal is always to ensure that the user's voice is heard and incorporated into the design process. 
+								With my strong analytical skills, I am able to distill complex data into clear and concise insights, 
+								providing valuable recommendations to inform product decisions. 
+								</p>
+								 
+								
+							 
+							 						
+								<h2>Personal Interests </h3>
+								<p>
+								On a personal level, I’m a former band geek who loves all kinds of music, 
+								certain kinds of video games (Candy Crush, Solitaire, Overwatch, Skyrim), hiking, sightseeing, and eating lots of great food from around the world. 
+								I'm also a big fan of cats as well. :)
+								</p>
 					
 					
 					</div>

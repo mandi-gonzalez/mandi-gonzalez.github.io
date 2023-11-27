@@ -17,12 +17,13 @@
 
 			<!-- Header -->
 				<header id="header">
-					<h1><a href="index.html">Mandi</a> Gonzalez</h1>
+					<h1><a href="index.html">Mandi Gonzalez</a> </h1>
 					<nav id="nav">
 						<ul>
-							<li><a href="index.html">Work</a></li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="resume.pdf" target="_blank">Resume</a></li>	
+								<li><a href="../index.html">Work</a></li>
+							<li><a href="../about.html">About</a></li>
+							<li><a href="../resume.pdf" target="_blank">Resume</a></li>
+							 	
 						</ul>
 					</nav>
 				</header>
@@ -172,13 +173,13 @@
 		</div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.dropotron.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/jquery.dropotron.min.js"></script>
+			<script src="../assets/js/jquery.scrollex.min.js"></script>
+			<script src="../assets/js/browser.min.js"></script>
+			<script src="../assets/js/breakpoints.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<script src="../assets/js/main.js"></script>
 
 	</body>
 </html>
