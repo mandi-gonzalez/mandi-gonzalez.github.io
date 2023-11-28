@@ -16,7 +16,16 @@
 		<div id="page-wrapper">
 
 			<!-- Header -->
-				
+				<header id="header">
+					<h1><a href="index.html">Mandi Gonzalez </a> </h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Work</a></li>
+							<li><a href="about.html">About</a></li>
+							<li><a href="resume.pdf" target="_blank">Resume</a></li>	
+						</ul>
+					</nav>
+				</header>
 
 			<!-- Main -->
 				<section id="main" class="container">
@@ -24,7 +33,7 @@
 						<h2> Zone-A Redesign </h2>
 						<p> Evaluating The Home Depot's product pages above the fold to ensure it continues to meet customer shopping needs.
 
-</p>
+						</p>
 					</header>
 					<div class="box">
 					<span class="image featured"><img src="images/zonea/product-page-header.png" alt="" /></span>
@@ -58,241 +67,15 @@
 											<h5>METHODOLOGY</h5>
 											<p> Unmoderated Closed Card Sort </p>
 								</div>
-							</div>	
-
-								 <hr>
-						
-						<h3>Context</h3>
-						<p>  The Home Depot shopping website has what is called <b>Product Information Pages (PIPs)</b> which are pages that customers use to help them to learn more
-                             about a product and its features. The area above the fold on this page is called <b>Zone A</b>, one of the most important places on these kinds of pages
-							 due to how customers usually don't scroll past this part of the page. </p>
-							<span> <img style="display: block; margin-left: auto; margin-right: auto; width: 70%;" src="images/zonea/original-pip.png" alt="hammer and its specs" />
-							<figcaption> An older version of a product information page circa 2020. </figcaption>							
-							</span>
-						<br>	 
-						<h3> The Problem </h3>
-						
-						<p>
-						 A multitude of different teams across the company owned different content types. 
-							For example, one team owned anything discount or sales related, 
-							while another team owned the experience of choosing a fulfillment method (Get it shipped, Pick up in store, etc.)
-							These teams were constantly placing their respective content
-							in this Zone A of the page to the point of it being cluttered and not customer-informed.  
-							It needed governance and reevaluation. So, the Zone A Redesign Project was born.
-							</p>
-							
-							<h4> Business & UX Goals </h4>
-								<ul>
-									<li> simplify the experience based on customer feedback </li>
-									<li> optimize the page’s performance </li>
-									<li> create consistent look and feel with other experiences in the site. </li>
-								</ul>
-						
-								<h3>Research Objective</h3>
-								<p>
-								Before redesign efforts could begin, the research study that was proposed sought to <b>assess the importance
-								and order of distinct content found in Zone A to align with customer needs.</b>
-								</p>
-								 
-							 <!-- 
-								<h3> Process </h3>
-								
-								<p> Kickoff > Study Plan Review > Execution > Analysis > Findings Readout > Post-mortem
-								</p> -->
-								
-								 
-								<h3>Study Design</h3>
-								<p> An <b>unmoderated closed card sort</b> was conducted where customers first sorted pieces of Zone A content into 2 groups, 
-								called “Important” vs “Trash Bin”. 
-								Then, customers were instructed to rank the items in the "Important" group from most to least important to their shopping needs.
-								</p>
-								
-								<span>
-								<img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="images/zonea/card-sort-sample.jpg" alt="sorting cards in Optimal Sort tool" />
-								<figcaption> What customers would see when sorting Zone A content. </figcaption>
-								</span>
-								
-								<br>								 
-								
-								<p>
-								<b>Method Choice Rationale:</b> 
-								Closed card sorting can be used to assess existing information architectures, so this method was the
-								right approach in that research we were doing was to assess the information architecture of Zone A
-								items on PIPs. By doing it remotely and unmoderated, we were also able to quickly evaluate Zone A’s from
-								different category types of PIP.
-								</p>
-								
-								<h3> Choosing Assets </h3>
-								<div class="row">
-								
-									<div class="col-6 col-12-mobilep">
-									<span class="image fit"><img src="images/zonea/calculator.jpg" alt="" />
-									<figcaption> Fig.1 Mulch calculator </figcaption>
-									</span>
-									</div>
-									
-									<div class="col-6 col-12-mobilep">
-									<p>
-										We needed to account how different content is displayed to customers depending on category and/or price.
-										For example, if you are shopping for mulch online, you might see a calculator that will help you determine
-										how much mulch you'll need to purchase. You don't see a calculator when shopping for a power drill.
-									</p>
-									<p> We also needed to account for price. For example, you may see a credit card offer higher on the page for a $2,000 fridge, 
-										compared to shopping for a $7 hammer.
-									</p>
-
-								</div>
-								<p> With that in mind, we had customers evaluate content for 8 different product pages:
-								mulch, power drill, dresser, fan, plater, lawn mower, hammer, and outdoor grill.
-								We ultimately had 45 customers evaluate a given product pages' content on Zone A.
-								</p>
-								</div>
-									
-								
-								<h3> Target Audience </h3>
-									<div class="row">
-										<div class="col-6 col-12-mobilep">
-											<p>We had 360 participants in total that took part in the study, where:
-												<ul>
-													<li> 8 groups of 45 customers each were presented with a different product page (mulch, grill, etc.)</li>
-													<li> they regularly shop with the Home Depot</li>
-													<li> they were intending to shop for the given product soon.</li>
-												</ul>
-												Using the OptimalSort tool, I launched the card sort to both our research team's internal panel 
-												and through UserTesting.com
-											</p>
-										</div>
-									<div class="col-6 col-12-mobilep">
-										<span class="image fit"><img src="images/zonea/participants.png" alt="" /></span>
-									</div>
-									</div>
-								<br>
-									
-									<div class="row">
-
-										<div class="col-6 col-12-mobilep">
-																												<h3> Analysis </h3>
-
-										<p>
-										My analysis process involved averaging the results from each product page study instance
-										into one source (table) via Microsoft Excel.
-										</p>
-										</div>
-										<div class="col-6 col-12-mobilep">
-										<span class="image fit"><img src="images/zonea/pip-analysis.png" alt="excel tables with data" />
-										</span>
-										</div>
-
- 								</div>
-								<br>
-								
-								<h3> Recommendations </h3>
-								<p> I made recommendations around what order customers should see content on product pages 
-								and what content is not necessary to display to customers at all. The recommendations are as follows:
-								</p>
-								
-									<div class="row">
-										<div class="col-4 col-12-mobilep">
-										<h4> Necessary Content </h4>	 
-											<ol>
-											<li>Product Image </li>
-											<li>Product Price </li>
-											<li>Product Name </li>
-											<li>Product Info </li>
-											<li>SKU (if present) </li>
-											<li>Star Rating </li>
-											<li>Brand </li>
-											<li>How to Get It </li>
-											<li>Quantity </li>
-											<li>Add to Cart </li>
-											</ol>
-										</div>
-										
-										<div class="col-8 col-12-mobilep">
-											<span class="image fit"><img src="images/zonea/rec1.png" alt="" />
-											<figcaption> An older version of the product page showing where content is current placed 
-											compared to how they are ranked in importance from the research.	
-											</figcaption>
-										</span>
-
-										</div>
-									</div>
-								
-								<div class="row">
-										<div class="col-4 col-12-mobilep">
-										<br>
-											<h4> Not Critical Content </h4>
-											<ol>
-											<li>Print</li>
-											<li>Share </li>
-											<li>Write a Review </li>
-											<li>Instant Checkout </li>
-											<li>Shop the Collection </li>
-											</ol>
-
-										</div>
-										<div class="col-8 col-12-mobilep">
-											<span class="image fit"><img src="images/zonea/rec2.png" alt="" />
-											<figcaption> An older version of the product page showing where content is current placed 
-											compared to how they are ranked in unimportance to be seen.	
-											</figcaption>
-										</div>
-
-									</div>
-								
-								<h3> Impact </h3>
-							
-								<span class="image fit"><img src="images/zonea/new-pip-2023.png" alt="hammer shopping page" />  <figcaption> The latest iteration of Zone A as of February 2023. </figcaption></span>
-
-								<p> After the results were disseminated, the UX Design immediately iterated and created a new
-									version of the product pages (via design sprints) that then received moderated usability testing.
-									Launch of the new design went live in August 2021.</p>
-									 
-									<h4>	Metrics Impact </h4>
-										<ul>
-											<li> Home décor pages ATC conversion +40bps </li>
-											<li> General Merchandise pages ATC conversion went up +18bps </li>
-											<li> Bounce & Exit rate metrics also trended in a
-											downward fashion </li>
-										</ul>
-							
-								<h3> Reflection </h3>
-								<span class="image fit"><img src="images/zonea/videos-banner.jpg" alt="" /></span>
-							
-									<h4> What could have gone better? </h4>
-										<ul>
-											<li> I could have dedicated time to watching (some) the videos
-											to pair qualitative insights with the collected quantitative
-											data. </li>
-											<li>It was a tedious process to create 32 unmoderated studies
-											on UserTesting to collect the data (limit 15 tests per study)  </li>
-											<li>Next time: Find budget to collect data more efficiently
-											through Optimal Sort’s panel  </li>
-										</ul>
-									<h4> Positives </h4>
-										<ul>
-											<li>I was able to juggle this project alongside another superlarge scale benchmarking project </li>
-											<li>I worked closer than ever with a group of incredibly talented 
-											UX designers </li>
-											<li>I able to work on such a widely visited part of the site
-											experience.</li>
-										</ul>
-									<br>
-					
-							
 							</div>
-								
-									<div style="text-align: right;">	
-										<a href="pro-quoting.html" class="button icon solid fa-arrow-right"> Next Project </a>
-									</div>	
-							</div>
-								
-									
-						</div>
+						<a href="gonzalez.armanda@gmail.com" class="button icon solid"> Reach Out for More Details </a>
 						
-					</div>
+					</div>						 
+		
+
 				</section>
-
+		</div>
+		
 			<!-- Footer -->
 				<footer id="footer">
 					<ul class="icons">
