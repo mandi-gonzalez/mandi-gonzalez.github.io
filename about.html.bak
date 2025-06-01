@@ -6,6 +6,15 @@
 -->
 <html>
 	<head>
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S7K4CNT6K4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-S7K4CNT6K4');
+</script>
 		<title>About Me</title>
 		<link rel="icon" type="image/x-icon" href="favicon_io/favicon.ico">
 		<meta charset="utf-8" />
@@ -31,7 +40,7 @@
 				<section id="main" class="container">
 					<header>
 						<h2>Hi, I'm Mandi </h2> 
-						<p>I'm a User Experience Researcher currently residing in Atlanta, GA.</p>
+						<p>I'm a User Experience Researcher currently residing in Raleigh, NC</p>
 					</header>
 					
 					<div class="box">
@@ -42,9 +51,9 @@
 								
 								<p>
 								<span class="image right"><img src="images/me2.png" alt="mandi's headshot" /></span> 
-								As a seasoned UX researcher with over 7 years of experience, I have honed my skills in 
+								As a seasoned UX researcher with over 9 years of experience, I have honed my skills in 
 								conducting user research, analyzing data, and creating actionable insights for product teams. 
-								Throughout my career, I have worked across a diverse range of industries including e-commerce, B2B, and government, 
+								Throughout my career, I have worked across a diverse range of industries including retail, e-commerce, B2B, and government, 
 								allowing me to develop a versatile and adaptive approach to problem-solving. 
 								<br></br> 
 								My ultimate goal is always to ensure that the user's voice is heard and incorporated into the design process. 
@@ -58,8 +67,8 @@
 								<h3>Personal Interests </h3>
 								<p>
 								On a personal level, I’m a former band geek who loves all kinds of music, 
-								certain kinds of video games (Candy Crush, Solitaire, Overwatch, Skyrim), hiking, sightseeing, and eating lots of great food from around the world. 
-								I'm also a big fan of cats as well. :)
+								certain kinds of video games (Candy Crush, Solitaire, Overwatch, Skyrim), hiking, traveling/sightseeing, and eating lots of great food from around the world. 
+								Lastly, I'm a big fan of cats!:)
 								</p>
 					
 					
